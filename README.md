@@ -4,10 +4,10 @@
 ## 功能特色
 
 ## 操作畫面
-<img width="1242" height="2688" alt="未命名的作品 43" src="https://github.com/user-attachments/assets/dc3ed3f2-698f-4200-9306-b7837e87cb76" />
-<img width="1242" height="2688" alt="未命名的作品 42" src="https://github.com/user-attachments/assets/7793cae4-8bdb-4256-ab8e-32f5d16354fa" /> <br/>
-<img width="1242" height="2688" alt="未命名的作品 42" src="https://github.com/user-attachments/assets/e3f5e7e9-b144-4e2c-9e8a-e637a1bc99b5" />
-<img width="1242" height="2688" alt="未命名的作品 40" src="https://github.com/user-attachments/assets/2400cde2-d822-425b-b939-8c781f40b425" /> <br/>
+<img width="300"  src="https://github.com/user-attachments/assets/dc3ed3f2-698f-4200-9306-b7837e87cb76" />
+<img width="300" src="https://github.com/user-attachments/assets/7793cae4-8bdb-4256-ab8e-32f5d16354fa" /> <br/>
+<img width="300" src="https://github.com/user-attachments/assets/e3f5e7e9-b144-4e2c-9e8a-e637a1bc99b5" />
+<img width="300" src="https://github.com/user-attachments/assets/2400cde2-d822-425b-b939-8c781f40b425" /> <br/>
 
 ## 安裝
 到 App Store 下載<br/>
